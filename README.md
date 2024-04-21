@@ -50,8 +50,6 @@ For Swire, the implementation of predictive demand forecasting using XGBoost has
 - **Balanced Model Complexity**: Through cross-validation and regularization, we achieved models that are complex enough to capture underlying trends but simple enough to avoid overfitting.
 - **Efficient Hyperparameter Optimization**: With a systematic search for the best hyperparameters, we could maximize model performance without incurring unnecessary computational costs.
 
-For Swire, the implementation of predictive demand forecasting using XGBoost has been a journey of learning and refinement. Here are some key takeaways:
-
 
 
 
